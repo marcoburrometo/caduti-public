@@ -16,7 +16,7 @@
         "Sergente": [-8, 0.2, -0.5],
         "SoldatoARiposo":[-6, 1.3, -9],
         "SoldatoBRiposo": [-9, -0.6, -5],
-        "SoldatoBScena2":[-9, -0.6, -5],
+        "SoldatoBScena2":[-9, -0.6, -5]
     },
     "forte": {
         "smoke1": [-21, 26, -60],
