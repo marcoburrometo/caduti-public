@@ -1,0 +1,31 @@
+{
+    "asiago": {
+        "smoke1": [-20, 20, -60],
+        "smoke2": [-3, 23, -60],
+        "smoke3": [-7, 22, -60],
+        "X_SAGOME" : 11,
+        "Z_SAGOME" : -55,
+        "H_SAGOME" : 8,
+        "lettera": [-1, -1, -1],
+        "soldato1": [0.8, 0, -6.4],
+        "soldato2": [0.8, 0, -2.9]
+    },
+    "rasta": {
+        "SoldatoBScena1": [-9, 0.4, -5],
+        "SoldatoAScena1": [-6, 1, -9],
+        "Sergente": [-8, 0.2, -0.5],
+        "SoldatoARiposo":[-6, 1.3, -9],
+        "SoldatoBRiposo": [-9, -0.6, -5],
+        "SoldatoBScena2":[-9, -0.6, -5],
+    },
+    "forte": {
+        "smoke1": [-21, 26, -60],
+        "smoke2": [-3, 24, -60],
+        "smoke3": [-8, 25, -60],
+        "soldato":[2, 0, -4.2],
+        "soldatoRotation": [90,0,0],
+        "vaia": [-2, 0, -4.2],
+        "vaiaRotation": [90,0,0],
+        "text": [0, 0, -10]
+    }
+}
