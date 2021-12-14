@@ -22,10 +22,10 @@
         "smoke1": [-21, 26, -60],
         "smoke2": [-3, 24, -60],
         "smoke3": [-8, 25, -60],
-        "soldato":[2, 0, -4.2],
-        "soldatoRotation": [90,0,0],
-        "vaia": [-2, 0, -4.2],
-        "vaiaRotation": [90,0,0],
+        "soldato":[-2, 0, 0],
+        "soldatoRotation": [270,0,0],
+        "vaia": [2, 0, 0],
+        "vaiaRotation": [270,0,0],
         "text": [0, 0, -10]
     }
 }
