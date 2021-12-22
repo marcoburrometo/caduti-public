@@ -23,9 +23,9 @@
         "smoke2": [-51, -8.5, -60],
         "smoke3": [-48, -7.5, -65],
         "soldato":[-2, 0, 0],
-        "soldatoRotation": [0, 205, 0],
+        "soldatoRotation": [0, 190, 0],
         "vaia": [2, 0, 0],
-        "vaiaRotation": [0, -40, 0],
+        "vaiaRotation": [0, -20, 0],
         "text": [0, 0, -10]
     }
 }
